@@ -7,6 +7,11 @@ body{
     justify-content: center;
 }
 
+.pagelinks {
+    display: flex;
+    justify-content: center;
+}
+
 .title img {
     width: auto;
     height: 126px;
