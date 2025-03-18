@@ -2,11 +2,12 @@ body{
     font-family: 'Century Gothic', 'sans-serif';
 }
 
-div.title {
-    text-align: center;
+.title {
+    display: flex;
+    justify-content: center;
 }
 
-div.title img {
+.title img {
     width: auto;
     height: 126px;
 }
