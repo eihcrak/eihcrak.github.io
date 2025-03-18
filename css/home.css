@@ -2,6 +2,10 @@ body{
     font-family: 'Century Gothic', 'sans-serif';
 }
 
+div.title {
+    text-align: center;
+}
+
 div.title img {
     width: auto;
     height: 126px;
