@@ -7,10 +7,17 @@ body{
 .title {
     display: flex;
     justify-content: center;
+    text-align: center;
+}
+
+.titleitem {
+    text-align: center;
+    display: inline-block; /* 中身の幅を適切に保つ */
 }
 
 .titleitem img {
-    text-align: center;
+    display: block; /* 画像が中央に寄るようにする */
+    margin: 0 auto; /* 画像を中央に配置 */
     width: auto;
     height: 126px;
 }
