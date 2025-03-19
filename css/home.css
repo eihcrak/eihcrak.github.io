@@ -35,7 +35,7 @@ h3:before {
     display: block;
     margin: -1rem 1rem -1rem -1.3rem;
     min-width: 3px;
-    background: linear-gradient(to bottom,deeppink 0,deeppink 20%,LemonChiffon 80%,LemonChiffon 100%);
+    background: linear-gradient(to bottom,deeppink 0,deeppink 20%,yellow 80%,yellow 100%);
     content: "";
     align-self: stretch;
 }
