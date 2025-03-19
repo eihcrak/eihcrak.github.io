@@ -9,10 +9,9 @@ body{
     justify-content: center;
 }
 
-.title img {
+.titleitem img {
     width: auto;
     height: 126px;
-    text-align: center;
 }
 
 /* h1 */
