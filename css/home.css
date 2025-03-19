@@ -10,9 +10,9 @@ body{
 }
 
 .titleitem img {
+    text-align: center;
     width: auto;
     height: 126px;
-    text-align: center;
 }
 
 /* h1 */
