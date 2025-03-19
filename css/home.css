@@ -10,6 +10,7 @@ body{
 .title img {
     width: auto;
     height: 126px;
+    text-align: center;
 }
 
 /* h1 */
